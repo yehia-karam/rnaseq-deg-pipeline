@@ -412,9 +412,6 @@ All analytical scripts use strictly relative file paths to ensure full portabili
 - **Upregulated Candidates:** Disease-induced inflammatory, stress response, or oncogenic transcripts — these genes may serve as diagnostic or prognostic biomarkers.
 - **Downregulated Candidates:** Suppressed baseline biological processes or tumor suppressor inactivation — these may reveal pathways disrupted in the disease state.
 
-### 7. Conclusion & References
-
-The pipeline successfully isolates candidate gene expression signatures between healthy and diseased states. Full references for FastQC, fastp, HISAT2, Samtools, featureCounts, MultiQC, and DESeq2 are documented in `reports/FINAL_REPORT.md`.
 
 ---
 
