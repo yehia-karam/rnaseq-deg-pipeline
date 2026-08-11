@@ -35,7 +35,6 @@
 - [Quality Control Comparison](#-quality-control-comparison-before-vs-after-trimming)
 - [Repository Directory Structure](#-repository-directory-structure)
 - [Conda Environment Setup](#-conda-environment-setup-environmentyml)
-- [GitHub Repository Setup Instructions](#-github-repository-setup-instructions-avoiding-conflicts)
 - [Author & License](#-author--license)
 
 ---
