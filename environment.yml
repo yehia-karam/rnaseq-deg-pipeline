@@ -1,0 +1,23 @@
+name: ngs_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - r-base=4.2
+  - fastqc
+  - multiqc
+  - fastp
+  - hisat2
+  - samtools
+  - subread
+  - bioconductor-deseq2
+  - r-ggplot2
+  - r-pheatmap
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+
